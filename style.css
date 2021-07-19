@@ -1,0 +1,74 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+.background {
+    background-image: url(./img/logo3.jpg);
+    height: 95vh;
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat; 
+  
+}
+
+h1,p {
+    text-align: center;
+    font-size: 50px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+  
+  form{
+    background-color: #000; 
+    width: 400px; 
+    height: 150px; 
+    left: 50%; 
+    margin: -130px 0 0 -210px; 
+    padding:10px;
+    position: absolute; 
+    top: 50%; 
+    border-radius: 10px;
+  }
+
+  input {
+      width: 400px;
+      height: 40px;
+      text-align: center;
+      font-size: 30px;
+      margin: auto;
+  }
+
+  #timer{
+    color: #000;
+    font-size: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #0000;
+    border-radius: 5px;
+    text-align: center;
+  }
+
+  .hours {
+    color: #000;
+    font-size: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #0000;
+    border-radius: 5px;
+    text-align: center;
+  }
+
+  #cadastrar {
+      background-color: #fff;
+  }
+ 
+  
+  footer{
+    height: 10px;
+    padding: 25px;
+    text-align: center;
+    background-color: #000;
+    color: #fff;
+    
+  }
